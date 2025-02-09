@@ -34,26 +34,5 @@ Edit
 ├── reports/             # Visualized reports & dashboards  
 └── README.md            # This documentation  
 
-🚀 Getting Started
-
-1️⃣ Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/PrinceStrategies/growth-analytics-python.git
-cd growth-analytics-python
-
-2️⃣ Install Dependencies
-sh
-Copy
-Edit
-pip install -r requirements.txt
-
-3️⃣ Run the Analysis
-sh
-Copy
-Edit
-jupyter notebook
-
 📢 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
