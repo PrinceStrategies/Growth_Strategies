@@ -40,7 +40,7 @@ Edit
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/growth-analytics-python.git
+git clone https://github.com/PrinceStrategies/growth-analytics-python.git
 cd growth-analytics-python
 
 2️⃣ Install Dependencies
